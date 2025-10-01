@@ -36,7 +36,7 @@ export default function RootLayout({ children }) {
 
             <main className="min-h-screen">{children}</main>
             {/*footer */}
-            <footer className="bg-white/80 py-11 mt-15">
+            <footer className="bg-white/70 py-11 ">
             <div className="container mx-auto px-4 text-center text-red-900">
               <p>
                 Made by saanvi
