@@ -43,7 +43,7 @@ const Header = () => {
               <Button className="bg-black/90 text-white hover:bg-red-900 active:bg-red-900 data-[state=open]:bg-red-900 
         transition-colors duration-300">
                 <StarsIcon className="h-4 w-4" />
-                <span className="hidden md:block">Growth Tools</span>
+                
                 <ChevronDown className='h-4 w-4'/>
               </Button>
             </DropdownMenuTrigger>
