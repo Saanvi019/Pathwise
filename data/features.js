@@ -7,7 +7,12 @@ export const features = [
     description:
       "Get personalized career advice and insights powered by advanced AI technology.",
   },
- 
+  {
+    icon: <BrainCircuit className="w-10 h-10 mb-4 text-primary" />,
+    title: "AI-Powered ",
+    description:
+      "Get personalized career advice ",
+  },
   {
     icon: <LineChart className="w-10 h-10 mb-4 text-primary" />,
     title: "Industry Insights",
