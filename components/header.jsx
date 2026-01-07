@@ -33,7 +33,7 @@ const Header = () => {
               <Button className="bg-black/90 text-white hover:bg-red-900 active:bg-red-900 data-[state=open]:bg-red-900 
         transition-colors duration-300" >
                 <LayoutDashboard className="h-4 w-4" />
-                <span className="hidden md:block">Indsutry Insights</span>
+                <span className="hidden md:block">Indsutry very well Insights</span>
               </Button>
             </Link>
           
@@ -73,7 +73,7 @@ const Header = () => {
 
           <SignedOut>
         <SignInButton>
-          <Button className="bg-black/90 text-white hover:bg-red-900 active:bg-red-900 data-[state=open]:bg-red-900 
+          <Button className="bg-amber-800 text-white hover:bg-white active:bg-red-900 data-[state=open]:bg-red-900 
         transition-colors duration-300" >Sign In</Button>
         </SignInButton>
 
