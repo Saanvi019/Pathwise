@@ -8,10 +8,10 @@ export const features = [
       "Get personalized career advice and insights powered by advanced AI technology.",
   },
   {
-    icon: <Briefcase className="w-10 h-10 mb-4 text-primary" />,
-    title: "Interview Preparation",
+    icon: <BrainCircuit className="w-10 h-10 mb-4 text-primary" />,
+    title: "AI-Powered ",
     description:
-      "Practice with role-specific questions and get instant feedback to improve your performance.",
+      "Get personalized career advice ",
   },
   {
     icon: <LineChart className="w-10 h-10 mb-4 text-primary" />,
