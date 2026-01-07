@@ -1,6 +1,6 @@
 export async function GET() {
   return Response.json({
-    email: null,
+    email: "test@mail.com",
     role: "user",
   });
 }
